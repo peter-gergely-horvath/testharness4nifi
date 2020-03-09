@@ -1,0 +1,9 @@
+
+.idea/
+*.iml
+
+target/
+
+
+testharness4nifi_home/*
+nifi-*-bin.zip
